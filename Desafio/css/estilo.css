@@ -1,0 +1,28 @@
+.alerta {
+    position: relative;
+    padding: 0.75rem 8.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.alerta-perigo{
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+#navbar-logout {
+    background-color: gray;
+}
+#offcanvasNavbar {
+    width: 200px;
+}
+#dropdown_ajuste {
+    min-width: 110px;
+}
+#content {
+    margin-top: 1pc;
+}
+
+.informa {
+    font-size: 12px;
+}
